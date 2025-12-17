@@ -1,7 +1,6 @@
 ZienthOS
 
-===========
-Unleashing Boundless Possibilities!
+=========== Unleashing Boundless Possibilities! ===========
 
 The ZienthOS Project introduces you to a world of endless customizations and useful Android features.
 
