@@ -1,0 +1,14 @@
+ZienthOS
+
+===========
+Unleashing Boundless Possibilities!
+
+The ZienthOS Project introduces you to a world of endless customizations and useful Android features.
+
+ZienthOS is currently running on Android 16 (Baklava).
+
+- [Manifest](https://github.com/zienthos/android)
+
+### Commit History
+
+- Rom Doesnt Include Clean Commit History But Stable Rom
