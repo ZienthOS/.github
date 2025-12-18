@@ -12,4 +12,4 @@ ZienthOS is a custom Android ROM based on crDroid Android, offering a unique ble
 - Want to build check out our [Manifest](https://github.com/ZienthOS/android)
 
 ### Get Involved!
-We welcome contributors, developers, and enthusiasts to join our community and help shape the future of Project Matrixx
+We welcome contributors, developers, and enthusiasts to join our community and help shape the future of ZienthOS
