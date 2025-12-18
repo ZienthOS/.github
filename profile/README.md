@@ -1,7 +1,7 @@
 ## ZienthOS!
 
 ### Welcome!
-Project Matrixx is a custom Android ROM based on crDroid Android, offering a unique blend of features, improvements, and a refined user interface.
+ZienthOS is a custom Android ROM based on crDroid Android, offering a unique blend of features, improvements, and a refined user interface.
 
 ### Key Features
 - Built on top of [crDroid Android](https://github.com/crdroidandroid) for a stable and secure base
